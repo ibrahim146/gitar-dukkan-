@@ -1,0 +1,18 @@
+.başlık{
+    text-align: center;
+    color: red;
+
+}
+.liste{
+    
+    text-align: center;
+}
+.liste ul li{
+    text-align: center;
+    display :inline-block;
+
+}
+.bilgi {
+    text-align: center;
+    color:red;
+}
